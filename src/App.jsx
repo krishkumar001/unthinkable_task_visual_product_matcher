@@ -118,7 +118,7 @@ function App() {
 
             Build By -Krish Kumar , BTECH/60064/22
 
-            Built with React + Vite | Image similarity using color histogram analysis
+            
 
           </p>
         </div>
